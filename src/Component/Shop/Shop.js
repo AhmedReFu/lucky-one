@@ -42,7 +42,6 @@ const Shop = () => {
 
                 }
 
-
             </div>
 
 
@@ -51,8 +50,6 @@ const Shop = () => {
                 <Cart cart={cart} choseAgain={choseAgain} > </Cart>
 
             </div>
-
-
 
         </div>
     );

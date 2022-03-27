@@ -14,14 +14,10 @@ const Product = (props) => {
 
             <p className='product-name'>Name: {name} </p>
             <p className='product-name'>Price: ${price} </p>
-
-
             <button onClick={() => handleAddToCart(product)} className='btn'>
 
                 <p>Add To Cart  <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
                 </p>
-
-
             </button>
         </div>
     );
