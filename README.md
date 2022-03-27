@@ -1,3 +1,3 @@
-# priyo-shop
+# Stylish Shoes Shopping
 
-## live site link : https://lively-blancmange-fdd925.netlify.app/
+## live site link : https://stylish-shoes-shopping.netlify.app/
